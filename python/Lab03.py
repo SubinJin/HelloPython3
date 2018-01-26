@@ -21,7 +21,7 @@ else:
 
     # Q10.
     def computeProfit():
-        s = input('불편자본을 입력하세요')
+        s = input('불변자본을 입력하세요')
         v = input('가변자본을 입력하세요')
         c = input('잉여가치액을 입력하세요')
      # constatnt capital, variable capital, surplus value
